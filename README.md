@@ -1,6 +1,6 @@
 ## Hello guys! ✌🏼️
 
-Olá, me chamo Matheus! 🫱🏼‍🫲🏼
+Me chamo Matheus! 🫱🏼‍🫲🏼
 Cientista de Dados | Tenho 27 anos | 📍Moro em Guanhães/ Minas Gerais
 
 Graduado em Ciência e Tecnologia pela UFVJM, resolvi ingressar a fundo na área da tecnologia. Comecei minha trajetória profissional como analista de sistemas, e com o passar do tempo resolvi realizar uma transição de carreira optando pela área dos dados. Logo em seguida concluí o curso de Ciência de Dados Pela EBAC que me trouxe um primeiro contato com a área. Hoje, busco expandir cada vez mais meus conhecimentos e ferramentas para dar início a minha nova carreira.
