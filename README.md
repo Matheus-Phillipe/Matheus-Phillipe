@@ -33,3 +33,9 @@ No meu dia-a-dia estou sempre em contato com a tecnologia e esportes. Nas minhas
 ☎️Contato:
 
 📬matheusphillipe99@gmail.com | 📞+55 (38) 99931-5489
+
+
+
+
+
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=UTILIZADOR&layout=compact&theme=dracula)
