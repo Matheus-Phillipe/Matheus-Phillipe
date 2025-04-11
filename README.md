@@ -30,12 +30,9 @@ Graduado em Ciência e Tecnologia pela UFVJM, resolvi ingressar a fundo na área
  
 No meu dia-a-dia estou sempre em contato com a tecnologia e esportes. Nas minhas horas livres passo o tempo praticando esportes variados como Vôlei, Corrida, Peteca, Bike... e também jogando Games. Esse entusiasmo pelo esporte me impulsionou a criar uma equipe de competição que une diferentes modalidades esportivas, com o objetivo de incentivar e trazer mais pessoas para esse meio.
 
+🧬🌐🧠 Apredendo no momento: Deep Learning (redes neurais)
+
 ☎️Contato:
 
 📬matheusphillipe99@gmail.com | 📞+55 (38) 99931-5489
 
-
-
-
-
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=UTILIZADOR&layout=compact&theme=dracula)
