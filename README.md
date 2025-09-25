@@ -1,7 +1,7 @@
 ## Hello guys! ✌🏼️
 
 Me chamo Matheus! 🫱🏼‍🫲🏼
-Cientista de Dados | Tenho 27 anos | 📍Moro em Guanhães/ Minas Gerais
+Cientista de Dados | Tenho 27 anos | Cristão | 📍Moro em Guanhães/ Minas Gerais
 
 Graduado em Ciência e Tecnologia pela UFVJM, resolvi ingressar a fundo na área da tecnologia. Comecei minha trajetória profissional como analista de sistemas, e com o passar do tempo resolvi realizar uma transição de carreira optando pela área dos dados. Logo em seguida concluí o curso de Ciência de Dados Pela EBAC que me trouxe um primeiro contato com a área. Hoje, busco expandir cada vez mais meus conhecimentos e ferramentas para dar início a minha nova carreira.
 
@@ -30,7 +30,7 @@ Graduado em Ciência e Tecnologia pela UFVJM, resolvi ingressar a fundo na área
  
 No meu dia-a-dia estou sempre em contato com a tecnologia e esportes. Nas minhas horas livres passo o tempo praticando esportes variados como Vôlei, Corrida, Peteca, Bike... e também jogando Games. Esse entusiasmo pelo esporte me impulsionou a criar uma equipe de competição que une diferentes modalidades esportivas, com o objetivo de incentivar e trazer mais pessoas para esse meio.
 
-🧬🌐🧠 Apredendo no momento: Deep Learning (redes neurais)
+🧬🌐🧠 Apredendo no momento: LangChain: Criando chatbots com RAG.
 
 ☎️Contato:
 
